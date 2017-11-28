@@ -1,0 +1,104 @@
+
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="page.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+	<div class="navbar-wagon">
+  <!-- Logo -->
+  <a href="/" class="navbar-wagon-brand">
+    <img src="http://www.blogeek.ch/images/news/logoApplemulticolore.jpg" alt="logo">
+  </a>
+
+  <!-- Right Navigation -->
+  <div class="navbar-wagon-right hidden-xs hidden-sm">
+
+    <a href="" class="navbar-wagon-item navbar-wagon-link">Accueil</a>
+    <a href="" class="navbar-wagon-item navbar-wagon-link">Produits</a>
+    <a href="" class="navbar-wagon-item navbar-wagon-link">Newsletter</a>
+
+    <!-- Profile picture with dropdown list -->
+    <div class="navbar-wagon-item">
+      <div class="dropdown">
+        <ul class="dropdown-menu dropdown-menu-right navbar-wagon-dropdown-menu">
+          <li><a href="#">Profile</a></li>
+          <li><a href="#">Dashboard</a></li>
+          <li><a href="#">Log Out</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Dropdown appearing on mobile only -->
+  <div class="navbar-wagon-item hidden-md hidden-lg">
+    <div class="dropdown">
+      <i class="fa fa-bars dropdown-toggle" data-toggle="dropdown"></i>
+      <ul class="dropdown-menu dropdown-menu-right navbar-wagon-dropdown-menu">
+        <li><a href="#">Host</a></li>
+        <li><a href="#">Trips</a></li>
+        <li><a href="#">Messagese</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+	<div class="banner">
+  		<h1>Atomic Apple</h1>
+      <a href="https://www.google.fr/" class="button" target="_blank">
+  Voir nos produits
+</a>
+	</div>
+
+	<div class="card card-1">
+	  <div class="card-title-1">
+	    <h4>La perfection à l'état pure</h4>
+	  </div>
+	</div>
+
+<div class="card card-2">
+
+  <div class="card-title-2">
+    <h4>La finesse et l'élégance</h4>
+  </div>
+</div>
+
+<div class="card card-3">
+
+  <div class="card-title-3">
+    <h4>Simplicité et efficacité</h4>
+  </div>
+</div>
+
+  <div class= "row">
+<div class="text-center newsletter col-md-offset-2 col-md-8">
+    <h1>Newsletter</h1>
+    <h3>Pour obtenir nos dernières offres exclusives, entrez votre email ci-dessous</h3>
+    <form class="form-inline">
+  <div class="form-group">
+    <label for="email">Email address:</label>
+    <input type="email" class="form-control col-md-6" id="email">
+   <button type="submit" class="btn btn-danger">Soumettre</button>
+  </div>
+</form>
+<div/>
+<div/>
+
+</body>
+
+  <footer>
+
+  <a href="https://twitter.com"> <img class="twitter-logo" src="https://n6-img-fp.akamaized.net/icones-gratuites/gazouillement_318-136405.jpg?size=338&ext=jpg"
+  href="https://www.facebook.com"> <img class="facebook-logo" src="https://www.facebook.com/images/fb_icon_325x325.png"></a>
+
+  </footer>
+
+
+</html>
